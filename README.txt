@@ -1,1 +1,1 @@
-Hola mundo!
+Esta es la documentación asociada al desarrollo de la página web de frailecillo.
